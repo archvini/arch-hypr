@@ -1,13 +1,10 @@
 <div align="center">
 
-## 43PR Desktop
+## Arch Hypr
 
 Uma configuração Hyprland simples e leve, focada em produtividade, com atalhos práticos e fácil de personalizar.
 
-![Hyprland](https://img.shields.io/badge/Hyprland-0.56.2-8b9aaf?style=for-the-badge&labelColor=101418)
-[![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FHQwU9SzHj%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&style=for-the-badge&logo=discord&logoColor=ffffff&label=discord&labelColor=101418&color=7289a8)](https://discord.gg/HQwU9SzHj)
-[![YouTube](https://img.shields.io/badge/youtube-subscribe-b05a63?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=101418)](https://www.youtube.com/@43PR2)
-[![Ko-Fi donate](https://img.shields.io/badge/donate-kofi?style=for-the-badge&logo=ko-fi&logoColor=ffffff&label=ko-fi&labelColor=101418&color=9a6570)](https://ko-fi.com/43pr)
+[Repositório no GitHub](https://github.com/archvini/arch-hypr)
 
 ### **[Recursos](#recursos)  -  [Atalhos de teclado](#atalhos-de-teclado)  -  [Instalação](#instalação) -  [Atualização](#atualização)**
 
@@ -19,7 +16,7 @@ Uma configuração Hyprland simples e leve, focada em produtividade, com atalhos
 
 </div>
 
-<img width="1920" height="1080" alt="1792462138" src="https://github.com/user-attachments/assets/10324a99-1038-431f-9f64-0183e2e04276" />
+<img width="100%" alt="Wallpaper anime com caveira" src="../anime_skull.png" />
 
 <details>
 <summary><b>O que é isto? Sou iniciante?</b></summary>
@@ -52,7 +49,7 @@ A lista completa está em [Atalhos de teclado](#atalhos-de-teclado). Você tamb�
 
 ### Algo deu errado, onde pergunto?
 
-Entre no [Discord](https://discord.gg/HQwU9SzHj).
+Abra uma [issue no repositório](https://github.com/archvini/arch-hypr/issues).
 
 </details>
 
@@ -129,8 +126,8 @@ sudo pacman -S git
 ```
 
 ```bash
-git clone https://github.com/43PR/dotfiles.git
-cd dotfiles
+git clone https://github.com/archvini/arch-hypr.git
+cd arch-hypr
 chmod +x install.sh
 ./install.sh
 ```

@@ -1,19 +1,22 @@
 <div align="center">
 
-<img width="2171" height="724" alt="43pr_dotfiles_combined" src="assets/banner.png" />
+<img width="100%" alt="Wallpaper anime com caveira" src="anime_skull.png" />
+
+# Arch Hypr
+
+Dotfiles para um desktop Linux com Hyprland e Quickshell. [Acesse o repositório](https://github.com/archvini/arch-hypr).
 
 <p align="center">
-<img src="https://img.shields.io/badge/HYPRLAND-0.57-667A82?style=flat&labelColor=101418" height="20" alt="Hyprland">
-<a href="https://discord.gg/j32UAE4WFP"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2Fj32UAE4WFP%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&style=flat&logo=discord&logoColor=ffffff&label=DISCORD&labelColor=101418&color=7289a8" height="20" alt="Discord"></a>
-<a href="https://www.youtube.com/@43PR"><img src="https://img.shields.io/badge/YOUTUBE-SUBSCRIBE-b05a63?style=flat&logo=youtube&logoColor=ffffff&labelColor=101418" height="20" alt="YouTube"></a>
-<a href="https://ko-fi.com/43pr"><img src="https://img.shields.io/badge/SUPPORT-KOFI?style=flat&logo=ko-fi&logoColor=ffffff&label=KO--FI&labelColor=101418&color=9a6570" height="20" alt="Ko-Fi"></a>
+<img src="https://img.shields.io/badge/Hyprland-Desktop-667A82?style=flat&labelColor=101418" height="20" alt="Hyprland desktop">
 </p>
 
 <b><a href="#features">Features</a>  ·  <a href="#keybinds">Keybinds</a>  ·  <a href="#installation">Installation</a></b>
 
 </div>
 
-<img width="1920" height="1080" alt="1793227457" src="assets/desktop.png" />
+<img width="100%" alt="Wallpaper anime com foguetes" src="anime_girl_plus_rockets.png" />
+
+<img width="100%" alt="Captura do desktop Arch Hypr com terminal e visualizador de áudio" src="assets/desktop-screenshot.png" />
 
 <p align="center">
   <sub>
@@ -37,7 +40,7 @@ This setup aims to keep things simple, fast, practical, and easy to make your ow
 
 > New to Linux? I recommend watching this [CachyOS Tutorial](https://www.youtube.com/watch?v=rJcrb7vxoCo). 
 
-**Need help?** Join the Discord (button above).
+**Need help?** Open an issue in the [project repository](https://github.com/archvini/arch-hypr/issues).
 
 ### Hardware
 
@@ -110,8 +113,8 @@ sudo pacman -S git
 ```
 
 ```bash
-git clone https://github.com/43PR/dotfiles.git
-cd dotfiles
+git clone https://github.com/archvini/arch-hypr.git
+cd arch-hypr
 chmod +x install.sh
 ./install.sh
 ```
@@ -143,4 +146,3 @@ After the installation finishes log out and back in.
 
 **Wallpaper selector:** modified, originally built from the [hyprquickpaper](https://github.com/iamsurjog/hyprquickpaper) by iamsurjog.
 
-**Banner artwork:** by cherry✟ ([@aletiune](https://x.com/aletiune)). 
