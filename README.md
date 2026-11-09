@@ -14,7 +14,7 @@ Dotfiles para um desktop Linux com Hyprland e Quickshell. [Acesse o repositório
 
 </div>
 
-<img width="100%" alt="Wallpaper anime com foguetes" src="anime_girl_plus_rockets.png" />
+<img width="100%" alt="Wallpaper anime com foguetes" src="assets/desktop-screenshot.png" />
 
 <img width="100%" alt="Imagem enviada pelo usuário do desktop com ambientes escuros" src="assets/2026-11-08_20-55-30.png" />
 
